@@ -1,0 +1,583 @@
+{ 
+    "_id" : ObjectId("591d5c8193f21c0c0f7bd3f8"), 
+    "provider" : "local", 
+    "FirstName" : "test", 
+    "LastName" : "123", 
+    "email" : "test@gmail.com", 
+    "Phone" : NumberInt(1234567890), 
+    "City" : "us", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "+1 213", 
+    "ProfilePicture" : "https://s3-ap-southeast-1.amazonaws.com/rootvinn/SB20161107124017.jpg", 
+    "hashedPassword" : "3ZJYapm02j+WgFRN3CFLxnyYbh6Nytvt2z3FQypFEc5VeumnCGOzhLGkvCw762aD8ejMAWEZsusZ4todNofoWw==", 
+    "salt" : "QHzl9hc1zottGR//+tYYSQ==", 
+    "role" : "Tournament Director", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59229c472a08a8b80a3e6012"), 
+    "provider" : "local", 
+    "FirstName" : "Chris ", 
+    "email" : "chrisgatting@gmail.com", 
+    "Phone" : NumberInt(1234567891), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Referee", 
+    "hashedPassword" : "8Zq2YOafZvDp0gmNOTk8ctQRc99fW+FkTqrIsd1O1HjisgH1toAx/RaUXT3uI0GhxapGkzc4SRmd67/Bz0g1mw==", 
+    "salt" : "4TKahTm4zDVRUyhcsmZy0Q==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Gatting"
+}
+{ 
+    "_id" : ObjectId("59229c842a08a8b80a3e6013"), 
+    "provider" : "local", 
+    "FirstName" : "Byron ", 
+    "email" : "byronfranks@gmail.com", 
+    "Phone" : NumberInt(1234567892), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Referee", 
+    "hashedPassword" : "byXdXiwTLlspmYgw3PNuKiVBVj66KLfhmaE/QO9d5rSWVH70aHFEuEysv/9khG+HQ4iWWYygdxM1B9aYnqfTYA==", 
+    "salt" : "AP5l2rFy7FUSyCvtJUg/DQ==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Franks"
+}
+{ 
+    "_id" : ObjectId("59229cb02a08a8b80a3e6014"), 
+    "provider" : "local", 
+    "FirstName" : "Jim ", 
+    "email" : "jimhacker@gmail.com", 
+    "Phone" : NumberInt(1234567892), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Referee", 
+    "hashedPassword" : "XgSOsvc2FJaFCmGOIZhJVti8SfFcaCQ6rWKnyO+NazcV/2sXpkA4hcQct66wfob550EpDLCwsC8fceH/lCUIcg==", 
+    "salt" : "rjh19D2UXRHAbwHjQiCkhQ==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Hacker"
+}
+{ 
+    "_id" : ObjectId("59229ce72a08a8b80a3e6015"), 
+    "provider" : "local", 
+    "FirstName" : "Tom ", 
+    "email" : "tomtooper@gmail.com", 
+    "Phone" : NumberInt(1234567892), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Referee", 
+    "hashedPassword" : "FqIGT/h3vC+tQkgG1mF6fqtLf1QnbjHsrmgSmggAaqSM8DA2yeZ1ZblJHDPHOjMknH0kE9DKyoWjOxC318zxNg==", 
+    "salt" : "RmS60XFCQ+LpUSn4ZspnZA==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Tooper"
+}
+{ 
+    "_id" : ObjectId("59229d072a08a8b80a3e6016"), 
+    "provider" : "local", 
+    "FirstName" : "Bob ", 
+    "email" : "bobkarl@gmail.com", 
+    "Phone" : NumberInt(1234567892), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Referee", 
+    "hashedPassword" : "HNDwHXk128SdJu+du8P4GDrCRUPIwv7bZKTU05Sz/jz97vuvZyPcGnQ9sEiz3c/Zppp6U1GfxGO2CKWUM/Xefg==", 
+    "salt" : "G8aOBopGoZLMm70WQh7lKg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Karl"
+}
+{ 
+    "_id" : ObjectId("5922d3a12a08a8b80a3e6017"), 
+    "provider" : "local", 
+    "FirstName" : "Joe ", 
+    "email" : "joesmith@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "OXhS5CjvfTRTDe1pzWcAEx94TPdt9ZAgMYREGfy3ffvPO7GwFpOIaMRmvrQhYdCTd3Vc4ZyrkyBgv1Bwtvf6Kw==", 
+    "salt" : "8nUl1hpRyhhlPajdvfjibA==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Smith"
+}
+{ 
+    "_id" : ObjectId("5922d49b2a08a8b80a3e6018"), 
+    "provider" : "local", 
+    "FirstName" : "Ryan ", 
+    "email" : "ryanclark@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "uBrZezynNzrEbBcWxo1KsAliojC2p6WzhuXBQUhbezw6fZHIy/fRgTbLEfqlRokfc+h7syJ68vbyP3XObghUiA==", 
+    "salt" : "1kEK9PJmyDQun5wfeoiLJQ==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Clark"
+}
+{ 
+    "_id" : ObjectId("5922d4e02a08a8b80a3e6019"), 
+    "provider" : "local", 
+    "FirstName" : "Ben ", 
+    "email" : "bendavis@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "aFeKViZrpwIuOhCAQ6iN6q/0R8TihbAX6Tx5HTo55+9SGK9t4P0maCShq5rgSBP2c9T3+ijLJ/C71dWWJmWyiA==", 
+    "salt" : "ow9JM9C2u6KVTAzV25Y5zA==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Davis"
+}
+{ 
+    "_id" : ObjectId("5922d5052a08a8b80a3e601a"), 
+    "provider" : "local", 
+    "FirstName" : "Tison ", 
+    "email" : "tisonholmes@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "m6ZTZFBSbR03o53vp2HagR1JlvP1HoPCUrXPsWwAKY5m/M5F07pGeu8ha03BVj3xr1wW4T+brbvielKn0Z6KxQ==", 
+    "salt" : "jlk0dgEnqBNQH5jiv4qfwQ==", 
+    "__v" : NumberInt(0), 
+    "ZipCode" : NumberInt(90001), 
+    "LastName" : "Holmes"
+}
+{ 
+    "_id" : ObjectId("5922d52b2a08a8b80a3e601b"), 
+    "provider" : "local", 
+    "FirstName" : "Will ", 
+    "email" : "willmonts@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "8czJOYXFLJWEDx9SB1c67hNH6eTJXr7r5ootWS64MvM7hZBoKIG4WtohTFQJo8IACAMh6zexYiU3nwoatdV7gQ==", 
+    "salt" : "XpmanLjgLO90TaeU08aU/w==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Monts"
+}
+{ 
+    "_id" : ObjectId("5922d55d2a08a8b80a3e601c"), 
+    "provider" : "local", 
+    "FirstName" : "Lonnie ", 
+    "email" : "lonniecrank@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "owyrHMXzc3b921R7D8zq4+Xqh5vMufbreHSOI5UeUZRw4QyV+S+b6ds0vv2kvAsVzFeXzfkNeoli69dHHfss8w==", 
+    "salt" : "5rD3J4AR2xbeu9ityE69vw==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Crank"
+}
+{ 
+    "_id" : ObjectId("5922d59b2a08a8b80a3e601d"), 
+    "provider" : "local", 
+    "FirstName" : "Steve ", 
+    "email" : "steveyoung@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "QCH4n5/KH03RkpQrPS0jnYjSJIW9aG8nQ6cHT/JpkOuUnDXoQF87oa3DLCEbJABkkiksOZDV/SEUOP7twtHFkg==", 
+    "salt" : "/ekHfhbFPFxXinsph5/cuQ==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Young"
+}
+{ 
+    "_id" : ObjectId("5922d5d82a08a8b80a3e601e"), 
+    "provider" : "local", 
+    "FirstName" : "Marcus ", 
+    "email" : "marcussmart@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "O5quLL7/3VsQ7kFrlmNh1t6IYn1nN5diT9nUgzaxfYbU+M0anZF2kCY3DqZ9IyrEqbDs80C29MeG+NcmH9BK4A==", 
+    "salt" : "iAiygdYMt20tYalIpWsb8A==", 
+    "__v" : NumberInt(0), 
+    "ZipCode" : NumberInt(90001), 
+    "LastName" : "Smart"
+}
+{ 
+    "_id" : ObjectId("5922d6222a08a8b80a3e601f"), 
+    "provider" : "local", 
+    "FirstName" : "Jason ", 
+    "email" : "jasonsmith@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "TDinrckWW+xo6CdhogGMTltsceh/qA2hAHNSbKIhzSa5uW7oM8YExRO3GK/o2dQpLhFTe53FT8WvqJsew/oIyA==", 
+    "salt" : "gu3sLQFF7ApPaZpwamLAIg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Smith"
+}
+{ 
+    "_id" : ObjectId("5922d64f2a08a8b80a3e6020"), 
+    "provider" : "local", 
+    "FirstName" : "Ryan ", 
+    "email" : "ryanloop@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "Oar13VLlMh8/hzpuTUeJMg8y02/4MufXbUdUxlrHNgklp2YRM27NRRx6+t9qReXPP9dPn3VT6b13KxszOWhUzg==", 
+    "salt" : "4f9aFw636T50ReBWkoUunw==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Loops"
+}
+{ 
+    "_id" : ObjectId("5922d67b2a08a8b80a3e6021"), 
+    "provider" : "local", 
+    "FirstName" : "Mason ", 
+    "email" : "masondavis@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "MbT2begJ8jch5mkJj5wGjkPjz2OYOsMwA/cbF63+sjYxAdQMWrlfHu3cv1CC6OdNMhxNnwgWdjm6qgymZQo3gA==", 
+    "salt" : "foaqr8bsdJrxK+poqrfsWg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Davis"
+}
+{ 
+    "_id" : ObjectId("5922d6a22a08a8b80a3e6022"), 
+    "provider" : "local", 
+    "FirstName" : "Tyson ", 
+    "email" : "tysonlobbing@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "rHLGp3XyC3rtOfX3ONuwvR67S4tMz8I7S9ab2AxbysIGP1hkv9j+t8ClaAjc+IiNeX95cjzRsWr1fVRl5ZIxCg==", 
+    "salt" : "H3oG0yPAqbSy7Fj1RIh+Mg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Lobbing"
+}
+{ 
+    "_id" : ObjectId("5922d6ce2a08a8b80a3e6023"), 
+    "provider" : "local", 
+    "FirstName" : "Devin ", 
+    "email" : "devinmonts@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "QNwFAmgAVgVpCPmuZZ1UvXmBqsCPXaHXtRLFnICVGK40u6KLl+oqBufyMzD8jkgWIKJvV57UU7Q4vWWJ8BNnOg==", 
+    "salt" : "uiTo/jIY/6wcA0Abj1YRVA==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Monts"
+}
+{ 
+    "_id" : ObjectId("5922d6f72a08a8b80a3e6024"), 
+    "provider" : "local", 
+    "FirstName" : "Lonnie ", 
+    "email" : "lonniewilliams@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "fBjVbrybhhczZPq/Ovt9uwTAuZ1h/Zuc0KYwzH26mhP0lyMmQRv0skZ59fxsJHjvi1Cz32i1MsVeq2msDcKHoQ==", 
+    "salt" : "pIhkzRMPF3M/o08sspmoOA==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Williams"
+}
+{ 
+    "_id" : ObjectId("5922d7262a08a8b80a3e6025"), 
+    "provider" : "local", 
+    "FirstName" : "Steve ", 
+    "email" : "stevelopez@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "VflIDImPhZk+pm1q7qSxxi1g5p0sZ4qYpZbDqETNyCSzOejZkFk9tkFXRoQL9k8FhX583ps/u9juYyKi36+6JQ==", 
+    "salt" : "gNB5FIH+jLzaNK8rFV45Lg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Lopez"
+}
+{ 
+    "_id" : ObjectId("5922d7472a08a8b80a3e6026"), 
+    "provider" : "local", 
+    "FirstName" : "Marcus ", 
+    "email" : "marcusvans@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "0kkDt5uWkjDefUPuCr8rl5SRnWrPi75JIk9tr1d5QoLChhs65xzNNR3eeR+iFM0ivVdxm2SUnOScJVbg9XAdLQ==", 
+    "salt" : "qfi/wvTBIQ9+AvgzCZru5A==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Vans"
+}
+{ 
+    "_id" : ObjectId("5922d7812a08a8b80a3e6027"), 
+    "provider" : "local", 
+    "FirstName" : "Jennifer ", 
+    "email" : "jenniferhooper@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "+6nbfvaGFLOQYFwKpt9wGBMqDNrJW0o28e1e/tnx42YFxdnzWmSQnt40uB4UujBwItrPATY3FyOb3pP51Fv6lA==", 
+    "salt" : "pgDym2b/yUJVmU6sSXbbxw==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Hooper"
+}
+{ 
+    "_id" : ObjectId("5922d79d2a08a8b80a3e6028"), 
+    "provider" : "local", 
+    "FirstName" : "Sally ", 
+    "email" : "sallybanks@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "1R464UQrz6IvUHRa/7Ni+kzLXCdVXXLi9zh1euvTPDcEOzt5F9s+iBKsVSIXl5+rsymhhYN5XyD41HbXQXuBVw==", 
+    "salt" : "mtEJU3Lz/9egTCgL2chrZg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Banks"
+}
+{ 
+    "_id" : ObjectId("5922d7c52a08a8b80a3e6029"), 
+    "provider" : "local", 
+    "FirstName" : "Christine ", 
+    "email" : "christinesamuels@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "gdz4imcR83tV3iHcXURcd1DoVJgzHbQbtFC9I6I4V+DhPXbn5ub1oaQgAOrQX5t4aicf2VH5TyycES1H4nX/WQ==", 
+    "salt" : "YcmaAFO2qmSGLNtzK+/86A==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Samuels"
+}
+{ 
+    "_id" : ObjectId("5922d7e72a08a8b80a3e602a"), 
+    "provider" : "local", 
+    "FirstName" : "Kristi ", 
+    "email" : "kristidean@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "IPfdxhfgOMhs1hWHOyXlLHq8LlrtZhPAfbvvGzMKTW46CvPAqozBZ4CBlwv/Pk4ReE2IL3F2O12neT/6gxnHkA==", 
+    "salt" : "FPQY+3JgPWExuyOXqBkn0A==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Dean"
+}
+{ 
+    "_id" : ObjectId("5922d8402a08a8b80a3e602b"), 
+    "provider" : "local", 
+    "FirstName" : "Francine ", 
+    "email" : "francinejewel@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "Nqh/frdBqkVKc9BPTb31CPSEu03/wDdVHIDqHtsxI5lmBgaxGzzGMe7Es0rRTFKq1kiRrG7FL6zjm9cfrYYRgA==", 
+    "salt" : "wHS8PJrEoj4sj5CpynGeOg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Jewel"
+}
+{ 
+    "_id" : ObjectId("5922d87f2a08a8b80a3e602c"), 
+    "provider" : "local", 
+    "FirstName" : "Alice ", 
+    "email" : "alicehurst@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "4D2rTf2cfd+auhjqIDhGhLt+PMpwFxxQ5nKy2mRNdCWkJoZZwQbOYR9AoXc8CrV+Ng5vAGo4LQXJcDsz/IRWQA==", 
+    "salt" : "Nkj8MarbsJlG6aSktCrzJw==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Hurst"
+}
+{ 
+    "_id" : ObjectId("5922d8a42a08a8b80a3e602d"), 
+    "provider" : "local", 
+    "FirstName" : "Gail ", 
+    "email" : "gailcook@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "6Rm1x13cAuY5KlDeFMZY80Y9iq8AlOFcwmKAl1YkLJPTcgoBC7CMTowT8cT1tBzbKDsTGSdZTg0pNrFJq3CTig==", 
+    "salt" : "1/muNt3Ddw3vmD6bZh27Rw==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Cook"
+}
+{ 
+    "_id" : ObjectId("5922d8c72a08a8b80a3e602e"), 
+    "provider" : "local", 
+    "FirstName" : "Lisa ", 
+    "email" : "lisasmith@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "oeCRLlCKAc37Ee3tixVRZACljVc+du56ltrxiAjtSqvaXNMKigt7y8Ruu1DiaqJpv3gAuYLVj0IFfT6Ain6wEQ==", 
+    "salt" : "hN5oRh8dspviGS6yZv+knQ==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Smith"
+}
+{ 
+    "_id" : ObjectId("5922d9082a08a8b80a3e602f"), 
+    "provider" : "local", 
+    "FirstName" : "Bonnie ", 
+    "email" : "bonniehart@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "SOr/k9Gez282YTzdkoFirs4RFjl13F72Zd33sHB1P77Mkapgu7xT99eeJPXjYRRNf7b8y8E3It3PfSJTCMt97g==", 
+    "salt" : "8q+3+aNjvuXbdgW+e13RfQ==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Hart"
+}
+{ 
+    "_id" : ObjectId("5922d9272a08a8b80a3e6030"), 
+    "provider" : "local", 
+    "FirstName" : "Jane ", 
+    "email" : "janeadams@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "Hagf50DQvSl53dosbWvMnZeM5KobjphcygveX9uoA2YO7esGZpZgZNJVNciI09mBzqKHjgcM0gFKD6P/Fosswg==", 
+    "salt" : "VGpoCAkMgeIEo3jJ5KYt7A==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Adams"
+}
+{ 
+    "_id" : ObjectId("5922d9402a08a8b80a3e6031"), 
+    "provider" : "local", 
+    "FirstName" : "Denise ", 
+    "email" : "denisemartin@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "N6RPYaKxlLXmJ3Aw5j5JNV1ATEayHSI7kW/r/OCjTLo3rvArtIYCkTCI9YR4IRMeTCGAI876hXR7DUlG28Yf4Q==", 
+    "salt" : "b7iGpwEzURsPma5WhN3nFg==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Martin"
+}
+{ 
+    "_id" : ObjectId("5922d95f2a08a8b80a3e6032"), 
+    "provider" : "local", 
+    "FirstName" : "Julie ", 
+    "email" : "julietaylor@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "ppdDjfNafodZpSGk4r6w6VK6YqE3suwebFfa4L04oVGfkpneF5rmT6TEzLKOT8bLFDlc2/adwMxKjwrnPfzJJw==", 
+    "salt" : "J/+RoEWAMErEhn8CNy64HA==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Taylor"
+}
+{ 
+    "_id" : ObjectId("5923c9ce6220b8200eefa6c3"), 
+    "provider" : "local", 
+    "FirstName" : "Ty ", 
+    "email" : "tymcgirt@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "v0mtSsdNLSdgTWINd+geGb31sVerDCWhif7gME4aU4UVyE0j9fb0SDIB81XDHI6yrSLO+FAE9Y80fgTPBL37PQ==", 
+    "salt" : "GnRUhDep/vgumOXOI+/uyQ==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "McGirt"
+}
+{ 
+    "_id" : ObjectId("5923c9ea6220b8200eefa6c4"), 
+    "provider" : "local", 
+    "FirstName" : "Eric ", 
+    "email" : "ericross@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "DAnj01jtavy4zusxU6AuVeMpfYqNw9vTvKNtLzuVjETWY2g4aupuWsDgxzxZ/jIYmNwfYutPkxKpEe+2R4/JAQ==", 
+    "salt" : "jyDf6pgw3U1QgyQIfdBHaA==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Ross"
+}
+{ 
+    "_id" : ObjectId("5923ca076220b8200eefa6c5"), 
+    "provider" : "local", 
+    "FirstName" : "Steve ", 
+    "email" : "stevethomas@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "pum4lbnlCywR5URzlgtRSUeOOR1Qsdof9pxN2D+HOcvAaemquK/RtSl/N/Kpiae+S+BEjV8/ljzQkgJqU7IH5A==", 
+    "salt" : "9Z9UGYW8SwISLFGfu1cPog==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Thomas"
+}
+{ 
+    "_id" : ObjectId("5923ca2a6220b8200eefa6c6"), 
+    "provider" : "local", 
+    "FirstName" : "Paul ", 
+    "email" : "pauldinks@gmail.com", 
+    "Phone" : NumberInt(1234567893), 
+    "City" : "Los Anegles", 
+    "ZipCode" : NumberInt(90001), 
+    "Country" : "USA", 
+    "role" : "Player", 
+    "hashedPassword" : "iaAgB4E25hQVaLMZV73j46XcUpFHPq7toZFFyP6Z9MfHzMkIIeZVw+NhKxaCkaZyg4Yr8aClzAwSO4rcNHD2pg==", 
+    "salt" : "Dv9dHEYHiq2GgxJTqwK3+g==", 
+    "__v" : NumberInt(0), 
+    "LastName" : "Dinks"
+}
+{ 
+    "_id" : ObjectId("595a12e4713943380f913ad1"), 
+    "FirstName" : "koti", 
+    "LastName" : "arekonda", 
+    "email" : "kotiarekonda@gmail.com", 
+    "Phone" : 9010068628.0, 
+    "hashedPassword" : "ZR1u+Jml8VpwH0a6E8mml/rw5VKngulP4L45Mq9CWbXBP5i6CFjJbv4p+ihIEBVQTjhT+2I0CS6pYpRsRafkBw==", 
+    "salt" : "fBud2gc4geaeNkvOxOnVkQ==", 
+    "role" : "user", 
+    "__v" : NumberInt(0), 
+    "TempPassword" : ""
+}
