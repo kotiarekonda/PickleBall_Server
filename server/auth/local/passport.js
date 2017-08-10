@@ -21,10 +21,10 @@ exports.setup = function (User, config) {
         if (err) return done(err);
 
         if (!user) {
-          return done(null, false, { message: 'Please check your PickleBall credentials, then try again.' });
+          return done(null, false, { message: 'Please check your email or username, then try again.' });
         }
         if (!user.authenticate(password)) {
-          return done(null, false, { message: 'Please check your PickleBall credentials, then try again.' });
+          return done(null, false, { message: 'Please check your password, then try again.' });
         }
         return done(null, user);
       });

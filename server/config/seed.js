@@ -5,6 +5,8 @@
 
 'use strict';
 // Insert seed models below
+var States = require('../api/States/States.model');
+var Country = require('../api/Country/Country.model');
 var TournamentReferees = require('../api/TournamentReferees/TournamentReferees.model');
 var TournamentEvents = require('../api/TournamentEvents/TournamentEvents.model');
 var MasterEvents = require('../api/MasterEvents/MasterEvents.model');
@@ -22,6 +24,8 @@ var Thing = require('../api/thing/thing.model');
 var User = require('../api/user/user.model');
 
 // Insert seed data below
+var StatesSeed = require('../api/States/States.seed.json');
+var CountrySeed = require('../api/Country/Country.seed.json');
 var TournamentRefereesSeed = require('../api/TournamentReferees/TournamentReferees.seed.json');
 var TournamentEventsSeed = require('../api/TournamentEvents/TournamentEvents.seed.json');
 var MasterEventsSeed = require('../api/MasterEvents/MasterEvents.seed.json');
@@ -38,6 +42,14 @@ var sheduledmatchesSeed = require('../api/sheduledmatches/sheduledmatches.seed.j
 var thingSeed = require('../api/thing/thing.seed.json');
 
 // Insert seed inserts below
+States.find({}).remove(function() {
+	States.create(StatesSeed);
+});
+
+Country.find({}).remove(function() {
+	Country.create(CountrySeed);
+});
+
 TournamentReferees.find({}).remove(function() {
 	TournamentReferees.create(TournamentRefereesSeed);
 });

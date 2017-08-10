@@ -35,7 +35,7 @@ exports.update = function(req, res) {
     if(err){ return handleError(res, err); }
     if(scoreobj.length > 0){
       //update game status
-      Sheduledmatches.update({_id: data.MatchId},{$set:{GameStatus: req.body.GameStatus}}).exec();
+      Sheduledmatches.update({_id: scoreobj[0].MatchId},{$set:{GameStatus: req.body.GameStatus}}).exec();
       var updated = _.merge(scoreobj[0], req.body);
       updated.markModified('ScoreBoard');
       updated.markModified('TeamsWithServeDetails');

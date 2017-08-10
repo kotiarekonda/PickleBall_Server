@@ -8,6 +8,10 @@ var UserSchema = new Schema({
   FirstName: String,
   LastName: String,
   UserName: String,
+  normalized:{
+    type: String,
+    lowercase: true
+  },
   email: { type: String, lowercase: true },
   Phone: Number,
   City: String,
@@ -33,7 +37,7 @@ var UserSchema = new Schema({
   State:{
     type: String
   },
-  "T-ShirtSize":{
+  "TShirtSize":{
     type: String
   },
   "AltPhone":{
@@ -48,7 +52,10 @@ var UserSchema = new Schema({
   Club:{
     type: String
   },
-  "SkillLevel":{
+  "SinglesSkillLevel":{
+    type: String
+  },
+  "DoublesSkillLevel":{
     type: String
   },
   "SkillRatingBy":{

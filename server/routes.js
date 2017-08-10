@@ -9,6 +9,8 @@ var path = require('path');
 module.exports = function(app) {
 
   // Insert routes below
+  app.use('/api/Statess', require('./api/States'));
+  app.use('/api/Countrys', require('./api/Country'));
   app.use('/api/TournamentRefereess', require('./api/TournamentReferees'));
   app.use('/api/TournamentEventss', require('./api/TournamentEvents'));
   app.use('/api/MasterEventss', require('./api/MasterEvents'));

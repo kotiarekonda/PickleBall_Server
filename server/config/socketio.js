@@ -18,6 +18,8 @@ function onConnect(socket) {
   });
 
   // Insert sockets below
+  require('../api/States/States.socket').register(socket);
+  require('../api/Country/Country.socket').register(socket);
   require('../api/TournamentReferees/TournamentReferees.socket').register(socket);
   require('../api/TournamentEvents/TournamentEvents.socket').register(socket);
   require('../api/MasterEvents/MasterEvents.socket').register(socket);

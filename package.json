@@ -10,6 +10,7 @@
     "connect-mongo": "^0.8.1",
     "cookie-parser": "~1.0.1",
     "errorhandler": "~1.0.0",
+    "excel": "^0.1.7",
     "express": "~4.9.0",
     "express-fileupload": "^0.1.4",
     "express-jwt": "^3.0.0",

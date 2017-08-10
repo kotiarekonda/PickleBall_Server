@@ -11,6 +11,7 @@ var express = require('express');
 var mongoose = require('mongoose');
 var config = require('./config/environment');
 var fileUpload = require('express-fileupload');
+var bodyParser = require('body-parser');
 // Connect to database
 mongoose.connect(config.mongo.uri, config.mongo.options);
 mongoose.connection.on('error', function(err) {
@@ -41,6 +42,8 @@ var app = express();
     app.use(express.static('uploads'));
     app.use(fileUpload());
     app.use(allowCrossDomain);
+    app.use(bodyParser.json());
+    app.use(bodyParser.urlencoded({ extended: true }));
 var server = require('http').createServer(app);
 var socketio = require('socket.io')(server, {
   serveClient: config.env !== 'production',
