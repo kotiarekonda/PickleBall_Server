@@ -1,0 +1,15 @@
+{ 
+    "_id" : ObjectId("59228f1ae6250b2012090c21"), 
+    "TournamentName" : "USAPA West Regionals", 
+    "TournamentOwner" : ObjectId("591d5c8193f21c0c0f7bd3f8"), 
+    "Logo" : "newicon.png", 
+    "StartDate" : ISODate("2017-05-22T07:08:32.475+0000"), 
+    "EndDate" : ISODate("2018-05-22T07:08:32.475+0000"), 
+    "RegistrationStartDate" : ISODate("2017-05-22T07:08:32.475+0000"), 
+    "RegistrationEndDate" : ISODate("2017-12-22T07:08:32.475+0000"), 
+    "City" : "Los Angeles", 
+    "State" : "Los Angeles", 
+    "Country" : "US", 
+    "ZipCode" : NumberInt(90001), 
+    "__v" : NumberInt(0)
+}

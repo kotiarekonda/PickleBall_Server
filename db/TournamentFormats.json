@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("5912d6a908a6db8c0c7b9223"), 
+    "FormatId" : ObjectId("5936d4f53a3e86ec12c1f811"), 
+    "TournamentId" : ObjectId("59228f1ae6250b2012090c21"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5912d6a008a6db8c0c7b9222"), 
+    "FormatId" : ObjectId("5936d5c23a3e86ec12c1f812"), 
+    "TournamentId" : ObjectId("59228f1ae6250b2012090c21"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5912d6b208a6db8c0c7b9224"), 
+    "FormatId" : ObjectId("5936d6513a3e86ec12c1f814"), 
+    "TournamentId" : ObjectId("59228f1ae6250b2012090c21"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("591d7a01aa662f0c05e44156"), 
+    "FormatId" : ObjectId("5936d6b73a3e86ec12c1f815"), 
+    "TournamentId" : ObjectId("59228f1ae6250b2012090c21")
+}
+{ 
+    "_id" : ObjectId("591d7a95aa662f0c05e44157"), 
+    "FormatId" : ObjectId("5936d70b3a3e86ec12c1f816"), 
+    "TournamentId" : ObjectId("59228f1ae6250b2012090c21")
+}

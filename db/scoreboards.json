@@ -1,0 +1,353 @@
+{ 
+    "_id" : ObjectId("593e94d1ea37a71c0a5f6829"), 
+    "MatchId" : ObjectId("593937c415d802fc097587bc"), 
+    "MatchStartTime" : "03:15 AM", 
+    "MatchEndTime" : "05:00 AM", 
+    "ServingTeamWristBandInfo" : "Red", 
+    "ReceivingTeamWristBandInfo" : "Blue", 
+    "ScoreBoard" : {
+        "Team2" : {
+            "SetOneTimeOuts" : [
+                {
+                    "Team" : "Team2", 
+                    "ClickedTime" : false, 
+                    "Time" : null, 
+                    "Status" : false, 
+                    "set" : "SetOneTimeOuts", 
+                    "complete" : false, 
+                    "TimeOut" : NumberInt(1)
+                }, 
+                {
+                    "Team" : "Team2", 
+                    "ClickedTime" : false, 
+                    "Time" : null, 
+                    "Status" : false, 
+                    "set" : "SetOneTimeOuts", 
+                    "complete" : false, 
+                    "TimeOut" : NumberInt(2)
+                }
+            ], 
+            "SetOneScores" : [
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(0)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(1)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(2)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(3)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(4)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(5)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(6)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(7)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(8)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(9)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(10)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(11)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(12)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(13)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(14)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team2", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(15)
+                }
+            ], 
+            "SelectedTeam" : null, 
+            "SetOneServe" : false, 
+            "SetoneActive" : true, 
+            "Team" : "Team2"
+        }, 
+        "Team1" : {
+            "SetOneTimeOuts" : [
+                {
+                    "Team" : "Team1", 
+                    "ClickedTime" : false, 
+                    "Time" : null, 
+                    "Status" : false, 
+                    "set" : "SetOneTimeOuts", 
+                    "complete" : false, 
+                    "TimeOut" : NumberInt(1)
+                }, 
+                {
+                    "Team" : "Team1", 
+                    "ClickedTime" : false, 
+                    "Time" : null, 
+                    "Status" : false, 
+                    "set" : "SetOneTimeOuts", 
+                    "complete" : false, 
+                    "TimeOut" : NumberInt(2)
+                }
+            ], 
+            "SetOneScores" : [
+                {
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(0)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(1)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(2)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(3)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(4)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(5)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(6)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(7)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(8)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(9)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(10)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(11)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(12)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(13)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(14)
+                }, 
+                {
+                    "Point" : false, 
+                    "Team" : "Team1", 
+                    "set" : "SetOneScores", 
+                    "ServicesDowen" : false, 
+                    "Status" : false, 
+                    "clicked" : false, 
+                    "Score" : NumberInt(15)
+                }
+            ], 
+            "SetOneServe" : false, 
+            "SetoneActive" : true, 
+            "Team" : "Team1"
+        }
+    }, 
+    "__v" : NumberInt(0)
+}

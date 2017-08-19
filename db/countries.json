@@ -1,0 +1,1405 @@
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321635e"), 
+    "Country" : "Ascension Island - SAO", 
+    "CountryCode" : "AC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321635f"), 
+    "Country" : "Andorra", 
+    "CountryCode" : "AD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216360"), 
+    "Country" : "United Arab Emirates", 
+    "CountryCode" : "AE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216361"), 
+    "Country" : "Afghanistan", 
+    "CountryCode" : "AF", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216363"), 
+    "Country" : "Anguilla", 
+    "CountryCode" : "AI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216368"), 
+    "Country" : "Antarctica", 
+    "CountryCode" : "AQ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216364"), 
+    "Country" : "Albania", 
+    "CountryCode" : "AL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216365"), 
+    "Country" : "Armenia", 
+    "CountryCode" : "AM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321636d"), 
+    "Country" : "Aruba", 
+    "CountryCode" : "AW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216366"), 
+    "Country" : "Netherlands Antilles", 
+    "CountryCode" : "AN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321636a"), 
+    "Country" : "American Samoa", 
+    "CountryCode" : "AS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216372"), 
+    "Country" : "Belgium", 
+    "CountryCode" : "BE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216369"), 
+    "Country" : "Argentina", 
+    "CountryCode" : "AR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321636b"), 
+    "Country" : "Austria", 
+    "CountryCode" : "AT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216377"), 
+    "Country" : "Benin", 
+    "CountryCode" : "BJ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321636f"), 
+    "Country" : "Bosnia", 
+    "CountryCode" : "BA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321636e"), 
+    "Country" : "Azerbaijan", 
+    "CountryCode" : "AZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216370"), 
+    "Country" : "Barbados", 
+    "CountryCode" : "BB", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321637c"), 
+    "Country" : "Bahamas", 
+    "CountryCode" : "BS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216374"), 
+    "Country" : "Bulgaria", 
+    "CountryCode" : "BG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216373"), 
+    "Country" : "Burkina Faso", 
+    "CountryCode" : "BF", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216381"), 
+    "Country" : "Canada", 
+    "CountryCode" : "CA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216375"), 
+    "Country" : "Bahrain", 
+    "CountryCode" : "BH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216379"), 
+    "Country" : "Brunei", 
+    "CountryCode" : "BN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216386"), 
+    "Country" : "Switzerland", 
+    "CountryCode" : "CH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321637e"), 
+    "Country" : "Botswana", 
+    "CountryCode" : "BW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321637a"), 
+    "Country" : "Bolivia", 
+    "CountryCode" : "BO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216378"), 
+    "Country" : "Bermuda", 
+    "CountryCode" : "BM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216362"), 
+    "Country" : "Antigua", 
+    "CountryCode" : "AG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321638b"), 
+    "Country" : "China", 
+    "CountryCode" : "CN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321637f"), 
+    "Country" : "Belarus", 
+    "CountryCode" : "BY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321637d"), 
+    "Country" : "Bhutan", 
+    "CountryCode" : "BT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216390"), 
+    "Country" : "Cape Verde", 
+    "CountryCode" : "CV", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216384"), 
+    "Country" : "Central African Republic", 
+    "CountryCode" : "CF", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216382"), 
+    "Country" : "Cocos Islands", 
+    "CountryCode" : "CC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216367"), 
+    "Country" : "Angola", 
+    "CountryCode" : "AO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216395"), 
+    "Country" : "Djbouti", 
+    "CountryCode" : "DJ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216389"), 
+    "Country" : "Chile", 
+    "CountryCode" : "CL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216387"), 
+    "Country" : "Ivory Coast", 
+    "CountryCode" : "CI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321636c"), 
+    "Country" : "Australia", 
+    "CountryCode" : "AU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321639a"), 
+    "Country" : "Ecuador", 
+    "CountryCode" : "EC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321638e"), 
+    "Country" : "Yugoslavia", 
+    "CountryCode" : "CS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321638c"), 
+    "Country" : "Columbia", 
+    "CountryCode" : "CO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216371"), 
+    "Country" : "Bangladesh", 
+    "CountryCode" : "BD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321639f"), 
+    "Country" : "Ethiopia", 
+    "CountryCode" : "ET", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216393"), 
+    "Country" : "Czech Republic", 
+    "CountryCode" : "CZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216391"), 
+    "Country" : "CHRISTMAS ISLAND", 
+    "CountryCode" : "CX", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216376"), 
+    "Country" : "Burundi", 
+    "CountryCode" : "BI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a4"), 
+    "Country" : "Faroe Islands", 
+    "CountryCode" : "FO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216398"), 
+    "Country" : "Dominican Republic", 
+    "CountryCode" : "DO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321637b"), 
+    "Country" : "Brazil", 
+    "CountryCode" : "BR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a9"), 
+    "Country" : "Georgia", 
+    "CountryCode" : "GE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216396"), 
+    "Country" : "Denmark", 
+    "CountryCode" : "DK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321639d"), 
+    "Country" : "Eritrea", 
+    "CountryCode" : "ER", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216380"), 
+    "Country" : "Belize", 
+    "CountryCode" : "BZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ae"), 
+    "Country" : "Gambia", 
+    "CountryCode" : "GM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321639b"), 
+    "Country" : "Estonia", 
+    "CountryCode" : "EE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a2"), 
+    "Country" : "Falkland Islands", 
+    "CountryCode" : "FK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b3"), 
+    "Country" : "Guatemala", 
+    "CountryCode" : "GT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a0"), 
+    "Country" : "Finland", 
+    "CountryCode" : "FI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a7"), 
+    "Country" : "United Kingdom", 
+    "CountryCode" : "GB", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b8"), 
+    "Country" : "Honduras", 
+    "CountryCode" : "HN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a5"), 
+    "Country" : "France", 
+    "CountryCode" : "FR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ac"), 
+    "Country" : "Gibraltar", 
+    "CountryCode" : "GI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163bd"), 
+    "Country" : "Ireland", 
+    "CountryCode" : "IE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163aa"), 
+    "Country" : "French Guiana", 
+    "CountryCode" : "GF", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c2"), 
+    "Country" : "Iran", 
+    "CountryCode" : "IR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b1"), 
+    "Country" : "Equatorial Guinea", 
+    "CountryCode" : "GQ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163af"), 
+    "Country" : "Guinea", 
+    "CountryCode" : "GN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c7"), 
+    "Country" : "Japan", 
+    "CountryCode" : "JP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b6"), 
+    "Country" : "Guyana", 
+    "CountryCode" : "GY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b4"), 
+    "Country" : "Guam", 
+    "CountryCode" : "GU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163cc"), 
+    "Country" : "Comoros Islands", 
+    "CountryCode" : "KM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163bb"), 
+    "Country" : "Hungary", 
+    "CountryCode" : "HU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b9"), 
+    "Country" : "Croatia", 
+    "CountryCode" : "HR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d1"), 
+    "Country" : "Cayman Islands", 
+    "CountryCode" : "KY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c0"), 
+    "Country" : "British Indian Ocean Territory", 
+    "CountryCode" : "IO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163be"), 
+    "Country" : "Israel", 
+    "CountryCode" : "IL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d6"), 
+    "Country" : "Liechtenstein", 
+    "CountryCode" : "LI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c5"), 
+    "Country" : "Jamaica", 
+    "CountryCode" : "JM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c3"), 
+    "Country" : "Iceland", 
+    "CountryCode" : "IS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163db"), 
+    "Country" : "Luxembourg", 
+    "CountryCode" : "LU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ca"), 
+    "Country" : "Cambodia", 
+    "CountryCode" : "KH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c8"), 
+    "Country" : "Kenya", 
+    "CountryCode" : "KE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e0"), 
+    "Country" : "Moldova", 
+    "CountryCode" : "MD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163cf"), 
+    "Country" : "Republic of Korea", 
+    "CountryCode" : "KR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163cd"), 
+    "Country" : "Nevis", 
+    "CountryCode" : "KN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e5"), 
+    "Country" : "Myanmar", 
+    "CountryCode" : "MM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d2"), 
+    "Country" : "Kazakhstan", 
+    "CountryCode" : "KZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d4"), 
+    "Country" : "Lebanon", 
+    "CountryCode" : "LB", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ea"), 
+    "Country" : "Mauritania", 
+    "CountryCode" : "MR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d7"), 
+    "Country" : "Luxembourg", 
+    "CountryCode" : "LK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d9"), 
+    "Country" : "Maseru", 
+    "CountryCode" : "LS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ef"), 
+    "Country" : "Malawi", 
+    "CountryCode" : "MW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163dc"), 
+    "Country" : "Latvia", 
+    "CountryCode" : "LV", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163de"), 
+    "Country" : "Morocco", 
+    "CountryCode" : "MA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f4"), 
+    "Country" : "New Caledonia", 
+    "CountryCode" : "NC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e1"), 
+    "Country" : "Madagascar", 
+    "CountryCode" : "MG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e3"), 
+    "Country" : "Macedonia", 
+    "CountryCode" : "MK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f9"), 
+    "Country" : "Netherlands", 
+    "CountryCode" : "NL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e6"), 
+    "Country" : "Mongolia", 
+    "CountryCode" : "MN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e8"), 
+    "Country" : "Northern Mariana Islands", 
+    "CountryCode" : "MP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163eb"), 
+    "Country" : "Montserrat", 
+    "CountryCode" : "MS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216383"), 
+    "Country" : "Congo", 
+    "CountryCode" : "CD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ed"), 
+    "Country" : "Mauritius", 
+    "CountryCode" : "MU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f0"), 
+    "Country" : "Mexico", 
+    "CountryCode" : "MX", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216388"), 
+    "Country" : "Cook Islands", 
+    "CountryCode" : "CK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f2"), 
+    "Country" : "Mozambique", 
+    "CountryCode" : "MZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f5"), 
+    "Country" : "Niger", 
+    "CountryCode" : "NE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321638d"), 
+    "Country" : "Costa Rica", 
+    "CountryCode" : "CR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f7"), 
+    "Country" : "Nigeria", 
+    "CountryCode" : "NG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163fa"), 
+    "Country" : "Norway", 
+    "CountryCode" : "NO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216392"), 
+    "Country" : "Cyprus", 
+    "CountryCode" : "CY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ff"), 
+    "Country" : "Oman", 
+    "CountryCode" : "OM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163fc"), 
+    "Country" : "Nauru", 
+    "CountryCode" : "NR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216397"), 
+    "Country" : "Dominica", 
+    "CountryCode" : "DM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216404"), 
+    "Country" : "Philippines", 
+    "CountryCode" : "PH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216401"), 
+    "Country" : "Peru", 
+    "CountryCode" : "PE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216409"), 
+    "Country" : "Palestinian Territory", 
+    "CountryCode" : "PS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321639c"), 
+    "Country" : "Egypt", 
+    "CountryCode" : "EG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216406"), 
+    "Country" : "Poland", 
+    "CountryCode" : "PL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a1"), 
+    "Country" : "Fiji", 
+    "CountryCode" : "FJ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321640e"), 
+    "Country" : "Reunion Island", 
+    "CountryCode" : "RE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321640b"), 
+    "Country" : "Palau", 
+    "CountryCode" : "PW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216413"), 
+    "Country" : "Solomon Islands", 
+    "CountryCode" : "SB", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a6"), 
+    "Country" : "Gabon", 
+    "CountryCode" : "GA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216410"), 
+    "Country" : "Russian Federation", 
+    "CountryCode" : "RU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ab"), 
+    "Country" : "Ghana", 
+    "CountryCode" : "GH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216415"), 
+    "Country" : "Sudan", 
+    "CountryCode" : "SD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b0"), 
+    "Country" : "Guadeloupe", 
+    "CountryCode" : "GP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216418"), 
+    "Country" : "St Helena", 
+    "CountryCode" : "SH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321641a"), 
+    "Country" : "Svalbard and Jan Mayen", 
+    "CountryCode" : "SJ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b5"), 
+    "Country" : "Guinea-Bissau", 
+    "CountryCode" : "GW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321641d"), 
+    "Country" : "San Marino", 
+    "CountryCode" : "SM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ba"), 
+    "Country" : "Haiti", 
+    "CountryCode" : "HT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321641f"), 
+    "Country" : "Somalia", 
+    "CountryCode" : "SO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216422"), 
+    "Country" : "El Salvador", 
+    "CountryCode" : "SV", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163bf"), 
+    "Country" : "India", 
+    "CountryCode" : "IN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216424"), 
+    "Country" : "Swaziland", 
+    "CountryCode" : "SZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216427"), 
+    "Country" : "Togo", 
+    "CountryCode" : "TG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c4"), 
+    "Country" : "Italy", 
+    "CountryCode" : "IT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216429"), 
+    "Country" : "Tajikistan", 
+    "CountryCode" : "TJ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321642c"), 
+    "Country" : "Tunisia", 
+    "CountryCode" : "TN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c9"), 
+    "Country" : "Krygystan", 
+    "CountryCode" : "KG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321642e"), 
+    "Country" : "EAST TIMOR", 
+    "CountryCode" : "TP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216431"), 
+    "Country" : "Tuvalu", 
+    "CountryCode" : "TV", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ce"), 
+    "Country" : "Korea", 
+    "CountryCode" : "KP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216433"), 
+    "Country" : "United Republic of Tanzania", 
+    "CountryCode" : "TZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216436"), 
+    "Country" : "United States Minor Outlying Islands", 
+    "CountryCode" : "UM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d3"), 
+    "Country" : "Laos", 
+    "CountryCode" : "LA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216438"), 
+    "Country" : "Uruguay", 
+    "CountryCode" : "UY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321643b"), 
+    "Country" : "Grenadines", 
+    "CountryCode" : "VC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d8"), 
+    "Country" : "Liberia", 
+    "CountryCode" : "LR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216440"), 
+    "Country" : "Vanautu", 
+    "CountryCode" : "VU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321643d"), 
+    "Country" : "British Virgin Islands", 
+    "CountryCode" : "VG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163dd"), 
+    "Country" : "Libya", 
+    "CountryCode" : "LY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216445"), 
+    "Country" : "South Africa", 
+    "CountryCode" : "ZA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216442"), 
+    "Country" : "Western Samoa", 
+    "CountryCode" : "WS", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e2"), 
+    "Country" : "Marshall Islands", 
+    "CountryCode" : "MH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216447"), 
+    "Country" : "Zimbabwe", 
+    "CountryCode" : "ZW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e7"), 
+    "Country" : "Macau", 
+    "CountryCode" : "MO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216385"), 
+    "Country" : "Congo", 
+    "CountryCode" : "CG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163fe"), 
+    "Country" : "New Zealand", 
+    "CountryCode" : "NZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ec"), 
+    "Country" : "Malta", 
+    "CountryCode" : "MT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321638a"), 
+    "Country" : "Cameroon", 
+    "CountryCode" : "CM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216403"), 
+    "Country" : "Papua New Guinea", 
+    "CountryCode" : "PG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f1"), 
+    "Country" : "Malaysia", 
+    "CountryCode" : "MY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321638f"), 
+    "Country" : "Cuba", 
+    "CountryCode" : "CU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216408"), 
+    "Country" : "Puerto Rico", 
+    "CountryCode" : "PR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f6"), 
+    "Country" : "Norfolk Island", 
+    "CountryCode" : "NF", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216394"), 
+    "Country" : "Germany", 
+    "CountryCode" : "DE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321640d"), 
+    "Country" : "Qatar", 
+    "CountryCode" : "QA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163fb"), 
+    "Country" : "Nepal", 
+    "CountryCode" : "NP", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216399"), 
+    "Country" : "Algeria", 
+    "CountryCode" : "DZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216400"), 
+    "Country" : "Panama", 
+    "CountryCode" : "PA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216412"), 
+    "Country" : "Saudi Arabia", 
+    "CountryCode" : "SA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321639e"), 
+    "Country" : "Spain", 
+    "CountryCode" : "ES", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216417"), 
+    "Country" : "Singapore", 
+    "CountryCode" : "SG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a3"), 
+    "Country" : "Micronesia", 
+    "CountryCode" : "FM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321641c"), 
+    "Country" : "Sierra Leone", 
+    "CountryCode" : "SL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216421"), 
+    "Country" : "Sao Tome", 
+    "CountryCode" : "ST", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163a8"), 
+    "Country" : "Grenada", 
+    "CountryCode" : "GD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ad"), 
+    "Country" : "Greenland", 
+    "CountryCode" : "GL", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216405"), 
+    "Country" : "Pakistan", 
+    "CountryCode" : "PK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321640a"), 
+    "Country" : "Portugal", 
+    "CountryCode" : "PT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321640f"), 
+    "Country" : "Romania", 
+    "CountryCode" : "RO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216414"), 
+    "Country" : "Seychelles Islands", 
+    "CountryCode" : "SC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216419"), 
+    "Country" : "Slovenia", 
+    "CountryCode" : "SI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321641e"), 
+    "Country" : "Senegal", 
+    "CountryCode" : "SN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216423"), 
+    "Country" : "Syrian Arab Republic", 
+    "CountryCode" : "SY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216428"), 
+    "Country" : "Thailand", 
+    "CountryCode" : "TH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321642d"), 
+    "Country" : "Tonga", 
+    "CountryCode" : "TO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216432"), 
+    "Country" : "Taiwan", 
+    "CountryCode" : "TW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216437"), 
+    "Country" : "United States", 
+    "CountryCode" : "US", 
+    "Status" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321643c"), 
+    "Country" : "Venezuela", 
+    "CountryCode" : "VE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216441"), 
+    "Country" : "Wallis And Funta Islands", 
+    "CountryCode" : "WF", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216446"), 
+    "Country" : "Zambia", 
+    "CountryCode" : "ZM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216426"), 
+    "Country" : "Chad", 
+    "CountryCode" : "TD", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321642b"), 
+    "Country" : "Turkmenistan", 
+    "CountryCode" : "TM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216430"), 
+    "Country" : "Trinidad And Tobago", 
+    "CountryCode" : "TT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216435"), 
+    "Country" : "Uganda", 
+    "CountryCode" : "UG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321643a"), 
+    "Country" : "Holy See (Vatican City State)", 
+    "CountryCode" : "VA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321643f"), 
+    "Country" : "Vietnam", 
+    "CountryCode" : "VN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216444"), 
+    "Country" : "Mayotte", 
+    "CountryCode" : "YT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b2"), 
+    "Country" : "Greece", 
+    "CountryCode" : "GR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163b7"), 
+    "Country" : "Hong Kong", 
+    "CountryCode" : "HK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163bc"), 
+    "Country" : "Indonesia", 
+    "CountryCode" : "ID", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c1"), 
+    "Country" : "Iraq", 
+    "CountryCode" : "IQ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163c6"), 
+    "Country" : "Jordan", 
+    "CountryCode" : "JO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163cb"), 
+    "Country" : "Kiribati", 
+    "CountryCode" : "KI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d0"), 
+    "Country" : "Kuwait", 
+    "CountryCode" : "KW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163d5"), 
+    "Country" : "St Lucia", 
+    "CountryCode" : "LC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163da"), 
+    "Country" : "Lithuania", 
+    "CountryCode" : "LT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163df"), 
+    "Country" : "Monaco", 
+    "CountryCode" : "MC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e4"), 
+    "Country" : "Mali", 
+    "CountryCode" : "ML", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163e9"), 
+    "Country" : "Martinique", 
+    "CountryCode" : "MQ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163ee"), 
+    "Country" : "Maldives", 
+    "CountryCode" : "MV", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f3"), 
+    "Country" : "Namibia", 
+    "CountryCode" : "NA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163f8"), 
+    "Country" : "Nicaragua", 
+    "CountryCode" : "NI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af90232163fd"), 
+    "Country" : "Niue Island", 
+    "CountryCode" : "NU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216402"), 
+    "Country" : "French Polynesia", 
+    "CountryCode" : "PF", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216407"), 
+    "Country" : "SAINT PIERRE AND MIQUELON", 
+    "CountryCode" : "PM", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321640c"), 
+    "Country" : "Paraguay", 
+    "CountryCode" : "PY", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216411"), 
+    "Country" : "Rwanda", 
+    "CountryCode" : "RW", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216416"), 
+    "Country" : "Sweden", 
+    "CountryCode" : "SE", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321641b"), 
+    "Country" : "Slovakia", 
+    "CountryCode" : "SK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216420"), 
+    "Country" : "Suriname", 
+    "CountryCode" : "SR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216425"), 
+    "Country" : "Turks And Caicos Island", 
+    "CountryCode" : "TC", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321642a"), 
+    "Country" : "Tokelau", 
+    "CountryCode" : "TK", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321642f"), 
+    "Country" : "Turkey", 
+    "CountryCode" : "TR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216434"), 
+    "Country" : "Ukraine", 
+    "CountryCode" : "UA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216439"), 
+    "Country" : "Uzbekistan", 
+    "CountryCode" : "UZ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af902321643e"), 
+    "Country" : "Virgin Islands", 
+    "CountryCode" : "VI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("598c3cbe8c49af9023216443"), 
+    "Country" : "Republic of Yemen", 
+    "CountryCode" : "YE", 
+    "__v" : NumberInt(0)
+}
